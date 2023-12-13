@@ -1,5 +1,6 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: BUSL-1.1
+# Aaron Carpenter
 
 source "https://rubygems.org"
 
